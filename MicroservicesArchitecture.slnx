@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/BuildingBlocks/" />
+  <Folder Name="/Services/" />
+  <Folder Name="/Services/Order/">
+    <Project Path="Services/Order/Order.API/Order.API.csproj" />
+    <Project Path="Services/Order/Order.Data/Order.Data.csproj" />
+    <Project Path="Services/Order/Order.Domain/Order.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Services/Payment/">
+    <Project Path="Services/Payment/Payment.API/Payment.API.csproj" />
+    <Project Path="Services/Payment/Payment.Data/Payment.Data.csproj" />
+    <Project Path="Services/Payment/Payment.Domain/Payment.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Services/Store/">
+    <Project Path="Services/Store/Store.API/Store.API.csproj" />
+    <Project Path="Services/Store/Store.Data/Store.Data.csproj" />
+    <Project Path="Services/Store/Store.Domain/Store.Domain.csproj" />
+  </Folder>
+</Solution>
