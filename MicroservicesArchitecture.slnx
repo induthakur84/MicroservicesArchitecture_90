@@ -1,5 +1,7 @@
 <Solution>
-  <Folder Name="/BuildingBlocks/" />
+  <Folder Name="/BuildingBlocks/">
+    <Project Path="RegisterDependency/RegisterDependency.csproj" Id="9333afb1-85e5-45cc-9d22-725ea687aa1d" />
+  </Folder>
   <Folder Name="/Services/" />
   <Folder Name="/Services/Order/">
     <Project Path="Services/Order/Order.API/Order.API.csproj" />

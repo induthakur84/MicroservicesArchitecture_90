@@ -1,13 +1,13 @@
 ﻿using Order.Domain.DTO.Request;
 using Order.Domain.DTO.Response;
-using System;
-using System.Collections.Generic;
-using System.Text;
+using RegisterDependency;
 
 namespace Order.Data.Interfaces
 {
 
     //[RegisterScoped]
+
+    [RegisterScoped]
     public interface IUserData
     {
 
