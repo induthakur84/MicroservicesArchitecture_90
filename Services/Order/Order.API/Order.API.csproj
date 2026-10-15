@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\MigrationUpdate\MigrationUpdate.csproj" />
     <ProjectReference Include="..\Order.Data\Order.Data.csproj" />
   </ItemGroup>
 

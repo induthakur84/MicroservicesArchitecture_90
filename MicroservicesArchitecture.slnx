@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/BuildingBlocks/">
+    <Project Path="MigrationUpdate/MigrationUpdate.csproj" Id="b1d8299b-65c4-49c5-8965-9bb57ba5171d" />
     <Project Path="RegisterDependency/RegisterDependency.csproj" Id="9333afb1-85e5-45cc-9d22-725ea687aa1d" />
   </Folder>
   <Folder Name="/Services/" />

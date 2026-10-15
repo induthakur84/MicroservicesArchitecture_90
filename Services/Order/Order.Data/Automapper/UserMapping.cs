@@ -1,17 +1,17 @@
-﻿using AutoMapper;
-using Order.Domain.DTO.Request;
-using Order.Domain.Entities;
+﻿//using AutoMapper;
+//using Order.Domain.DTO.Request;
+//using Order.Domain.Entities;
 
-namespace Order.Data.Automapper
-{
-    public class UserMapping : Profile
-    {
-        public UserMapping()
-        {
-            CreateMap<User, UserRequest>();
+//namespace Order.Data.Automapper
+//{
+//    public class UserMapping : Profile
+//    {
+//        public UserMapping()
+//        {
+//            CreateMap<User, UserRequest>();
 
-            CreateMap<UserRequest, User>();
-        }
+//            CreateMap<UserRequest, User>();
+//        }
         
-    }
-}
+//    }
+//}
